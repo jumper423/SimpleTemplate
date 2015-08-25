@@ -1,0 +1,14 @@
+{
+  "name": "jumper423/SimpleTemplate",
+  "description": "Простой шаблонизатор",
+  "keywords": [
+    "SimpleTemplate",
+    "template"
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {"jumper423\\SimpleTemplate\\": ""}
+  }
+}

@@ -39,3 +39,5 @@ or add
 ```
 "jumper423/SimpleTemplate": "*"
 ```
+
+to the require section of your composer.json file.

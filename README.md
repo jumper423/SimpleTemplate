@@ -1,7 +1,7 @@
 # SimpleTemplate
 ##Простой шаблонизатор
 
-####Пример
+####Example
 
 ```php
 $t = new \jumper423\SimpleTemplate\SimpleTemplate();

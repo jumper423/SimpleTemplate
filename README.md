@@ -25,3 +25,17 @@ $t->insertBlock('menu');
 
 $t->mainOutput();
 ```
+
+### Install
+
+Either run
+
+```
+$ php composer.phar jumper423/SimpleTemplate "*"
+```
+
+or add
+
+```
+"jumper423/SimpleTemplate": "*"
+```
